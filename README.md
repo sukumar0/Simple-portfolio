@@ -47,6 +47,6 @@ git push -u origin <your_branch_name>
 
 **6.** Create a Pull Request!
 
-- Create a pull request to the `master` branch in this repository, read [how to create pull request](https://help.github.com/articles/creating-a-pull-request/)
+- Create a pull request to the `main` branch in this repository, read [how to create pull request](https://help.github.com/articles/creating-a-pull-request/)
   
 **Congratulations!🎉** Sit and relax till i review your PR, 
